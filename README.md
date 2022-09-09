@@ -35,7 +35,7 @@
 
   `node test file (filename)` or 
 
-  `npx mocha filename --timeout=20000`
+  `npx mocha filename --timeout=30000`
 
 ### Report
 - For generating report install mochawesome and generate a file mochawesome.js and clone code mochawesome.js.
