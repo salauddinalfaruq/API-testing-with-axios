@@ -1,6 +1,6 @@
 
 
-## API_testing_with_axios
+## API-testing-with-axios
 
 ### Description
 - Login to the collection with valid email and password and generate token.
