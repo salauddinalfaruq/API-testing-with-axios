@@ -25,7 +25,7 @@
 
   `npm i fs` for file write
 
-  `npm i @faker-js/faker` for generating randm data
+  `npm i @faker-js/faker` for generating random data
 
   `npm i shelljs` for run the project from terminal dynamically
 
