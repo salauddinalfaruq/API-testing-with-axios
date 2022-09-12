@@ -17,11 +17,13 @@
 ### How to run the project
 #### Prerequisite
 - VS Code
-- give the command to install dependencis mocha,chai,axios,fs,faker,shelljs
-  
-  `npm i mocha chai`
+- Open the project in VS Code give the command to install dependencis mocha,chai,axios,fs,faker,shelljs
 
-  `npm i axios`
+  `npm init -y`
+  
+  `npm i mocha chai` to install mocha and chai
+
+  `npm i axios` to install axios
 
   `npm i fs` for file write
 
@@ -46,7 +48,7 @@
 
   Set mochawesome.js file to package.json scripts and give command
 
-  `npm start file (filename`
+  `npm start file (filename)`
 
 Report Overview
 ![report-overview](https://user-images.githubusercontent.com/108132871/189202804-c4a0d6e8-9bec-4cbd-951c-f622823fd55c.PNG)
